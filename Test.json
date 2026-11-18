@@ -7,7 +7,7 @@
   "update": {
     "enabled": true,
     "versionCode": 2,
-    "versionName": "2.0",
+    "versionName": "3.0",
     "title": "New Update Available",
     "message": "hi lauda admin",
     "updateButtonText": "Update Nowwww",
