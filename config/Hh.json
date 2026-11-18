@@ -1,0 +1,18 @@
+{
+  "app": {
+    "name": "Target Application",
+    "packageName": "com.example.targetapp",
+    "logoUrl": "https://example.com/logo.png"
+  },
+  "update": {
+    "enabled": true,
+    "versionCode": 256,
+    "versionName": "2.5.6",
+    "title": "New Update Available",
+    "message": "A new version is available with performance improvements.",
+    "updateButtonText": "Update Now",
+    "cancelButtonText": "Later",
+    "forceUpdate": false,
+    "downloadUrl": "https://example.com/app.apk"
+  }
+}
