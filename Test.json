@@ -1,20 +1,18 @@
-
 {
   "app": {
     "name": "Kind Master",
     "packageName": "com.example.kindmaster",
-    "logoUrl": "https://api.dicebear.com/9.x/initials/png?seed=Kind%20Master&backgroundColor=5267d8&textColor=ffffff"
+    "logoUrl": "https:\/\/api.dicebear.com\/9.x\/initials\/png?seed=Kind%20Master&backgroundColor=5267d8&textColor=ffffff"
   },
   "update": {
     "enabled": true,
-    "versionCode": 1,
-    "versionName": "1.0",
+    "versionCode": 2,
+    "versionName": "2.0",
     "title": "New Update Available",
     "message": "A new version of Kind Master is available. Update now to get the latest improvements and fixes.",
     "updateButtonText": "Update Now",
     "cancelButtonText": "Later",
-    "forceUpdate": false,
-    "downloadUrl": "https://t.me/Aether_OS_app_store"
+    "forceUpdate": true,
+    "downloadUrl": "https:\/\/t.me\/Aether_OS_app_store"
   }
 }
-
