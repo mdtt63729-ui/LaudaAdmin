@@ -2,17 +2,17 @@
   "app": {
     "name": "Kind Master",
     "packageName": "com.example.kindmaster",
-    "logoUrl": "https:\/\/api.dicebear.com\/9.x\/initials\/png?seed=Kind%20Master&backgroundColor=5267d8&textColor=ffffff"
+    "logoUrl": "https://api.dicebear.com/9.x/initials/png?seed=Kind%20Master&backgroundColor=5267d8&textColor=ffffff"
   },
   "update": {
     "enabled": true,
-    "versionCode": 3,
+    "versionCode": 4,
     "versionName": "3.0",
     "title": "New Update Available",
     "message": "hi lauda admin",
     "updateButtonText": "Update Nowwww",
     "cancelButtonText": "Later",
     "forceUpdate": true,
-    "downloadUrl": "https:\/\/t.me\/Aether_OS_app_store"
+    "downloadUrl": "https://t.me/Aether_OS_app_store"
   }
 }
